@@ -2,7 +2,7 @@
 <h3 align="center">A passionate coder from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshan&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshan" /> </p>
-
+<p><img align="right" src="https://github.com/shivamshan/shivamshan/blob/main/GOL.gif" alt="adam-pw" /></p>
 - 🔭 I’m currently working on [PyZombis](https://github.com/PyAr/PyZombis)
 
 - 🌱 I’m currently learning **PyTorch & Tensorflow Quantum**
