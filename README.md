@@ -4,11 +4,11 @@
 ![counter](https://en32zq2h9y2boyy.m.pipedream.net)
 <p><img align="right" src="https://github.com/shivamshan/shivamshan/blob/main/GOL.gif" alt="adam-pw" /></p>
 
-- 🔭 I’m currently working on [PyZombis](https://github.com/PyAr/PyZombis)
+- 🔭 I’m currently working on [PyZombis](https://github.com/PyAr/PyZombis).
 
-- 🌱 I’m currently learning **PyTorch & Tensorflow Quantum**
+- 🌱 I’m currently learning **PyTorch & Tensorflow Quantum**.
 
-- 📝 I regularly write articles on [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/noobmaster21/)
+- 📝 I regularly write articles on [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/noobmaster21/).
 
 - 💬 Ask me about **machine learning, deep learning and spooky action at a distance.**
 
