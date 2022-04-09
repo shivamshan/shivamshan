@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JfZMMsjfdJFEHuO7vfaUZsGM2-OFP9K1/view?usp=sharing)
 
-- ⚡ Fun fact **The famous "Conway's Game of Life" is Turing complete. It can simulate itslef.**
+- ⚡ Fun fact **The famous "Conway's Game of Life" is Turing complete.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
