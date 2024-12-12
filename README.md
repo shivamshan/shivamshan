@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shivam.stpaulsdarjeeling@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1dHFN706ovVIZbunXrmBVAjRRVDbgbIgk/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1FWjN89_gnt9g6sf2MtVNlm5KX-j15Edj/view?usp=sharing)
 
 - ⚡ Fun fact **The famous "Conway's Game of Life" is Turing complete.**
 
